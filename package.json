@@ -3,6 +3,7 @@
 	"author": "Daniel Mojica",
 	"version": "0.0.1",
 	"description": "Learning Backend!",
+	"keywords": ["freecodecamp", "learning", "full-stack", "in-progress"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
